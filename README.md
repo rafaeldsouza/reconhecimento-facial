@@ -1,2 +1,3 @@
-# reconhecimento-facial
-Técnicas para detectar e reconhecer faces
+## Sistema de Reconhecimento Facial
+
+
